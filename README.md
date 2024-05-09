@@ -3,7 +3,7 @@
 A small TUI that assists in diffing two bodies of text easily. Rather than creating two files and passing them to `diff`,
 this tool handles the tempfile creation and cleanup, as well quick launch hotkeys for editing the files and executing `diff`.
 
-https://github.com/clabby/diffur/assets/8406232/464be32b-fc66-4061-a589-648fd0dda100
+https://github.com/clabby/diffur/assets/8406232/b8211eca-d77e-4758-822f-c80d8101447f
 
 ## `delta`
 
