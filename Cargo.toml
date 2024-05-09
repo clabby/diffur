@@ -1,0 +1,18 @@
+[package]
+name = "diffur"
+description = "A TUI for diffing text"
+authors = ["clabby"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# External
+anyhow = "1.0.70"
+ratatui = "0.26.2"
+crossterm = "0.27.0"
+tempfile = "3.10.1"
+itertools = "0.12.1"
+
+[[bin]]
+name = "diffur"
+path = "src/diffur.rs"
